@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1487348717 source:/home/madness/Документы/ООП/letters/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<locale>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	<locale>
+	<iomanip>
+
+1487312380 
+
+1487312380 source:f:\letters\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<locale>
+	<iomanip>
+
+1488519058 source:g:\letters\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<locale>
+	<iomanip>
+
